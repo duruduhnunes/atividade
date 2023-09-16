@@ -1,0 +1,31 @@
+body{ background-image: url(https://especiais.g1.globo.com/app-g1/share-app-g1.jpg); background-size: 1920px 1080px;}
+nav{text-align: center ;
+}
+header{
+    text-align: center;
+font-size: 100px;
+color: white;
+
+} 
+header a{
+color: white;
+text-decoration: none;
+
+}
+.botao{
+
+color: black;
+padding: 20px 5px;
+text-align: center;
+}
+
+section{text-align: center;
+font-size: 100px; color: white;
+}
+
+nav{text-align: center; font-size: 60px; color: white;}
+
+.bolsonaro{font-size: 40px;}
+
+
+
